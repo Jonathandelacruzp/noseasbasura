@@ -12,7 +12,10 @@ header{
 
 .navbar-brand .logo{
     margin-top: -16px;
+    width: 120px;
 }
+
+
 .container-dark {
     padding: 60px 0;
     background-color: black;
@@ -80,11 +83,11 @@ footer * {
 }
 ul.custom-column {
     margin-bottom: 20px;
+    padding: 0;
     overflow: hidden;
 }
 
     ul.custom-column li {
-        line-height: 1.5em;
         float: left;
         display: inline;
         width: 100%;
@@ -110,3 +113,15 @@ ul.custom-column {
     ul.custom-column.six li {
         width: 16.666%;
     }
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 768px) {
+
+    .navbar-brand .logo{  
+        width: 90px !important;
+    }
+
+    ul.custom-column li{  
+        width: 100% !important;
+    }
+}
