@@ -1,6 +1,6 @@
 {
   "name": "noseasbasura",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^3.3.7",
@@ -14,5 +14,13 @@
   },
   "author": "jonathan.delacruzp",
   "license": "ISC",
-  "description": "noseasbasura"
+  "description": "noseasbasura",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathandelacruzp/noseasbasura.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jonathandelacruzp/noseasbasura/issues"
+  },
+  "homepage": "https://github.com/Jonathandelacruzp/noseasbasura#readme"
 }
