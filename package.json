@@ -1,6 +1,6 @@
 {
   "name": "noseasbasura",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^3.3.7",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Jonathandelacruzp/noseasbasura/issues"
   },
-  "homepage": "https://github.com/Jonathandelacruzp/noseasbasura#readme"
+  "homepage": "https://github.com/Jonathandelacruzp/noseasbasura#readme",
+  "keywords": [
+    "basura"
+  ]
 }
